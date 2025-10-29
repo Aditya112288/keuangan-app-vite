@@ -1,10 +1,5 @@
 # Keuangan App (Vite + React)
 
-Aplikasi pencatatan keuangan sederhana dengan login statis:
-- Username: `kitakita`
-- Password: `Terang` (case-sensitive)
-- Data disimpan di `localStorage` (perangkat lokal).
-
 ## Jalankan Lokal
 ```bash
 npm install
